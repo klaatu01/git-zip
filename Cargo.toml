@@ -2,6 +2,12 @@
 name = "git-zip"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/klaatu01/git-zip"
+description = "Zip only the files that are tracked by git"
+documentation = "https://docs.rs/git-zip/0.1.1/git-zip/"
+readme = "README.md"
+license = "MIT"
+keywords = ["git", "zip", "archive", "compress"]
 
 [[bin]]
 name = "git-zip"
